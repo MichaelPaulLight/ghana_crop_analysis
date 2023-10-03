@@ -1,0 +1,25 @@
+Element,Item,Year,Unit,Value_FAO,Flag Description,Value_SRID,Value_USDA
+Area harvested,Groundnuts,2018,ha,320000,Unofficial figure,"  319,680 ",320000
+Area harvested,Groundnuts,2019,ha,345000,Unofficial figure,337000,337000
+Area harvested,Groundnuts,2020,ha,350000,Unofficial figure,337000,337000
+Area harvested,Groundnuts,2021,ha,350000,Unofficial figure,273000,340000
+Yield,Groundnuts,2018,kg/ha,1628,Estimated value,1629.849,1451.5
+Yield,Groundnuts,2019,kg/ha,986,Estimated value,1670.62,1542.21
+Yield,Groundnuts,2020,kg/ha,1000,Estimated value,1676.56,1542.21
+Yield,Groundnuts,2021,kg/ha,1011,Estimated value,1838.83,1270.06
+Production,Groundnuts,2018,mt,521032,Official figure,521000,521000
+Production,Groundnuts,2019,mt,308443,Unofficial figure,563000,563000
+Production,Groundnuts,2020,mt,317514,Unofficial figure,565000,565000
+Production,Groundnuts,2021,mt,321143,Unofficial figure,502000,480000
+Area harvested,Soybeans,2018,ha,103000,Official figure,"  102,980 ",
+Area harvested,Soybeans,2019,ha,105000,Unofficial figure,112000,
+Area harvested,Soybeans,2020,ha,108000,Unofficial figure,116000,
+Area harvested,Soybeans,2021,ha,115000,Unofficial figure,126000,
+Yield,Soybeans,2018,kg/ha,1716,Official figure,1716,
+Yield,Soybeans,2019,kg/ha,1714,Estimated value,1723,
+Yield,Soybeans,2020,kg/ha,1685,Estimated value,1802,
+Yield,Soybeans,2021,kg/ha,1652,Estimated value,1730,
+Production,Soybeans,2018,mt,160299,Official figure,"  176,670 ",
+Production,Soybeans,2019,mt,163293,Unofficial figure,193000,
+Production,Soybeans,2020,mt,165107,Unofficial figure,"  209,000 ",
+Production,Soybeans,2021,mt,172365,Unofficial figure,"  218,000 ",

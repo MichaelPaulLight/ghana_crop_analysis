@@ -1,0 +1,66 @@
+Year,Crops,Topic, Volta , Eastern , Ashanti , Brong Ahafo ,North East,Savannah,Northern,Upper East,Upper West
+2015,Soya Bean,Area planted (Ha),"3,238.0",                         -   ,                         -   ,                         -   ,,,,,
+2015,Soya Bean,Area harvested (Ha),,,,,,,,,
+2015,Soya Bean,Farm Count,"2,520.0",                         -   ,                         -   ,                         -   ,,,,,
+2015,Soya Bean,Yield (Mt/Ha),1.0,                         -   ,                         -   ,                         -   ,,,,,
+2015,Groundnut,Area planted (Ha),                         -   ,"10,463.0","6,242.0","13,909.0",,,,,
+2015,Groundnut,Area harvested (Ha),,,,,,,,,
+2015,Groundnut,Farm Count,                         -   ,"13,080.0","7,840.0","13,520.0",,,,,
+2015,Groundnut,Yield (Mt/Ha),                         -   ,1.0,1.0,1.0,,,,,
+2016,Soya Bean,Area planted (Ha),"3,263.0",                         -   ,                         -   ,                         -   ,,,,,
+2016,Soya Bean,Area harvested (Ha),,,,,,,,,
+2016,Soya Bean,Farm Count,"2,498.0",                         -   ,                         -   ,                         -   ,,,,,
+2016,Soya Bean,Yield (Mt/Ha),1.0,                         -   ,                         -   ,                         -   ,,,,,
+2016,Groundnut,Area planted (Ha),                         -   ,"7,979.0","5,107.0","12,136.0",,,,,
+2016,Groundnut,Area harvested (Ha),,,,,,,,,
+2016,Groundnut,Farm Count,                         -   ,"13,167.0","8,002.0","13,747.0",,,,,
+2016,Groundnut,Yield (Mt/Ha),                         -   ,2.0,2.0,1.0,,,,,
+2017,Soya Bean,Area planted (Ha),"3,450",                         -   ,                         -   ,                         -   ,,,,,
+2017,Soya Bean,Area harvested (Ha),,,,,,,,,
+2017,Soya Bean,Farm Count,"3,326",                         -   ,                         -   ,                         -   ,,,,,
+2017,Soya Bean,Yield (Mt/Ha),1,                         -   ,                         -   ,                         -   ,,,,,
+2017,Groundnut,Area planted (Ha),                         -   ,"7,978","5,209","12,379",,,,,
+2017,Groundnut,Area harvested (Ha),,,,,,,,,
+2017,Groundnut,Farm Count,                         -   ,"13,563","8,334","14,171",,,,,
+2017,Groundnut,Yield (Mt/Ha),                         -   ,2,2,1,,,,,
+2018,Soya Bean,Area planted (Ha),"3,566.0",                         -   ,                         -   ,                         -   ,,,68541,15903,14994
+2018,Soya Bean,Area harvested (Ha),,,,,,,0,26,0
+2018,Soya Bean,Farm Count,"3,746.0",                         -   ,                         -   ,                         -   ,,,126759,18959,27233
+2018,Soya Bean,Yield (Mt/Ha),1.0,                         -   ,                         -   ,                         -   ,,,2,27,2
+2018,Groundnut,Area planted (Ha),                         -   ,"8,071.0","5,518.0","17,014.0",,,97696,37818,153591
+2018,Groundnut,Area harvested (Ha),,,,,,,0,26,0
+2018,Groundnut,Farm Count,                         -   ,"13,750.0","9,168.0","16,797.0",,,174567,44458,262317
+2018,Groundnut,Yield (Mt/Ha),                         -   ,2.0,1.0,2.0,,,1,28,2
+2019,Soya Bean,Area planted (Ha),,,,,,,0,26,0
+2019,Soya Bean,Area harvested (Ha),,,,,,,0,26,0
+2019,Soya Bean,Farm Count,,,,,,,0,26,0
+2019,Soya Bean,Yield (Mt/Ha),,,1.36,,1.66,1.94,1.932522291,26,1.561098844
+2019,Groundnut,Area planted (Ha),,  180 ,"  3,352 ","  8,209 ","  25,746 ","  22,366 ",62430.8816,2689,172712.97
+2019,Groundnut,Area harvested (Ha),,,,,,,0,26,0
+2019,Groundnut,Farm Count,,  148 ,"  5,466 ","  14,017 ","  38,854 ","  38,317 ",121964.2757,3053.3,292808.7703
+2019,Groundnut,Yield (Mt/Ha),,0.82,1.63,1.71,1.51,1.71,3.822868867,27.1368006,2.829382876
+2020,Soya Bean,Area planted (Ha),,,"  4,311 ",,"  18,872 ","  8,127 ",51380.1935,26,18283.25
+2020,Soya Bean,Area harvested (Ha),,,,,,,0,26,0
+2020,Soya Bean,Farm Count,,,,,,,0,26,0
+2020,Soya Bean,Yield (Mt/Ha),,,1.32,,1.30,1.96,1.896139502,26,1.64896386
+2020,Groundnut,Area planted (Ha),,  501 ,"  6,074 ","  11,386 ","  25,584 ","  22,829 ",63747.82618,2811.9,87772.68
+2020,Groundnut,Area harvested (Ha),,,,,,,0,26,0
+2020,Groundnut,Farm Count,,,,,,,0,26,0
+2020,Groundnut,Yield (Mt/Ha),,2.60,1.83,1.54,1.74,1.73,3.424129978,27.20216088,3.319173137
+2021,Soya Bean,Area planted (Ha),,,  802 ,,"  20,444 ","  9,183 ",54021.6722,26,20560
+2021,Soya Bean,Area harvested (Ha),,,,,,,0,26,0
+2021,Soya Bean,Farm Count,,,,,,,0,26,0
+2021,Soya Bean,Yield (Mt/Ha),,,  1.58 ,,  1.30 ,  1.65 ,2.053481069,26,1.684086576
+2021,Groundnut,Area planted (Ha),,  651 ,"  9,549 ","  10,938 ","  22,888 ","  28,754 ",65137.08186,2851.8,89950
+2021,Groundnut,Area harvested (Ha),,,,,,,0,26,0
+2021,Groundnut,Farm Count,,,,,,,0,26,0
+2021,Groundnut,Yield (Mt/Ha),,  2.60 ,  2.24 ,  1.62 ,  1.51 ,  2.07 ,4.378238976,27.20219867,3.480742392
+2022,Soya Bean,Area planted (Ha),,,"  4,605 ",,"  15,424 ","  14,954 ",56663.9049,26,25580
+2022,Soya Bean,Area harvested (Ha),,,,,,,0,26,0
+2022,Soya Bean,Farm Count,,,,,,,0,26,0
+2022,Soya Bean,Yield (Mt/Ha),,,1.57,,1.70,1.96,2.08230666,26,1.722138389
+2022,Groundnut,Area planted (Ha),,  833 ,"  9,893 ","  11,012 ","  23,509 ","  51,580 ",66309.41535,3436.631566,95379.9
+2022,Groundnut,Area harvested (Ha),,,,,,,0,26,0
+2022,Groundnut,Farm Count,,,,,,,0,26,0
+2022,Groundnut,Yield (Mt/Ha),,2.12,2.00,1.64,1.60,1.94,5.246979336,27.22,3.579097264
+2022,,Region Code,GH-TV,GH-EP,GH-AH,GH-AF,GH-NE,,0,26,0
